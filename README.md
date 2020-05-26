@@ -1,2 +1,2 @@
-# tiagoheliob.github.io
-Personal website
+# Info
+Personal website hosted on github pages
